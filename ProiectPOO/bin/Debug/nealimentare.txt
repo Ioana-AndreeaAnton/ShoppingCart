@@ -1,0 +1,7 @@
+#*4013790678751;*Huawei Color Band A2;*Bratara fitness, Black ;*Gadget ;*140;*24;*7;
+#*9780201379624;*Acumulator extern A+;*20.000 mAh Quick Charge 3.0 ;*Baterie externa ;*99.99;*12;*70;
+#*1234567890128;*SanDisk Micro SD Ultra;*32GB, Class 10, Full HD + Adaptor;*Card Memorie ;*49.99;*6;*67;
+#*1482039847129;*Cititor de card microSD;*SD, port USB3.0, max 128Gb ;*Card reader ;*27;*6;*156;
+#*1928394728128;*Mousepad Gaming A+ MP1;*Black ;*Suport mouse ;*19.99;*6;*80;
+#*5729384671235;*Trust GXT 138 X-Ray;*SMouse gaming,Negru ;*Periferica ;*99.99;*12;*30;
+#*4729385671921;*Samsung EO-EG920BW;*Casti Handsfree Albe Originale ;*Earphone ;*59.99;*6;*40;

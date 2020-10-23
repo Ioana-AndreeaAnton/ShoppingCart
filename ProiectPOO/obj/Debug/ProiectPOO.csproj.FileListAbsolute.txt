@@ -1,0 +1,26 @@
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.exe.config
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.exe
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.pdb
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csprojAssemblyReference.cache
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.Form1.resources
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.Properties.Resources.resources
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csproj.GenerateResource.cache
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csproj.CoreCompileInputs.cache
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.exe
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.pdb
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.AdaugareClient.resources
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.VizualizareClienti.resources
+C:\Users\Ioana\Desktop\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.CosCumparaturi.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.exe.config
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.exe
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\bin\Debug\ProiectPOO.pdb
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csprojAssemblyReference.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.AdaugareClient.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.CosCumparaturi.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.Form1.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.Properties.Resources.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.VizualizareClienti.resources
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csproj.GenerateResource.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.csproj.CoreCompileInputs.cache
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.exe
+D:\Documente\Facultate anul II\Programare orientata obiect\Teme\ProiectPOO\ProiectPOO\ProiectPOO\obj\Debug\ProiectPOO.pdb

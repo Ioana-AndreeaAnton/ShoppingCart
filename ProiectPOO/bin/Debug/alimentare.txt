@@ -1,0 +1,8 @@
+#*12345687;*Apa plata Borsec 0.5L ;*Apa minerala naturala plata Borsec 0.5L;*Alimentare;*1,58;*10;*100;
+#*12345694;*Inghetata vafa Alpin 50g;*Inghetata cu aroma de vanilie vafa Alpin 50g;*Alimentare;*0.49;*6;*150;
+#*12345618;*Iaurt Napolact 140g;*Iaurt natural bio 3.8% Napolact 140g;*1.83;*1;*1500;
+#*17556194;*Almette;*Almette cu smantana Hochland 150g;*Alimentare;*4.95;*1;*134;
+#*12345670;*Covrigi Vel Pital Grand Papa;*Covrigi cu vin alb Vel Pital Grand Papa 100g;*Alimentare;*2.24;*24;*15;
+#*30851931;*Cafea Tchibo Exclusive;*Cafea prajita si macinata Tchibo Exclusive 500g;*Alimentare;*19.99;*24;*140;
+#*38052880;*Telemea Hochland;*Telemea de vaca natur Hochland 350g;*Alimentar;*10.69;*2;*56;
+#*58895931;*Sunca Meda;*Sunca din piept de pui feliat Meda 150g;*Alimentar;*7.96;*2;*32;
